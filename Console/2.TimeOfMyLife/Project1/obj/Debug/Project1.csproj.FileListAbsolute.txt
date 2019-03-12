@@ -1,0 +1,14 @@
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\2IIZ\Desktop\c sharp\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\bin\Debug\Project1.exe.config
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\bin\Debug\Project1.exe
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\bin\Debug\Project1.pdb
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\obj\Debug\Project1.exe
+C:\Users\2IIZ\Desktop\c sharp\TimeOfMyLife\Project1\obj\Debug\Project1.pdb

@@ -1,0 +1,7 @@
+C:\Users\2IIZ\source\repos\Damier\Damier\bin\Debug\Damier.exe.config
+C:\Users\2IIZ\source\repos\Damier\Damier\bin\Debug\Damier.exe
+C:\Users\2IIZ\source\repos\Damier\Damier\bin\Debug\Damier.pdb
+C:\Users\2IIZ\source\repos\Damier\Damier\obj\Debug\Damier.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\source\repos\Damier\Damier\obj\Debug\Damier.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\source\repos\Damier\Damier\obj\Debug\Damier.exe
+C:\Users\2IIZ\source\repos\Damier\Damier\obj\Debug\Damier.pdb

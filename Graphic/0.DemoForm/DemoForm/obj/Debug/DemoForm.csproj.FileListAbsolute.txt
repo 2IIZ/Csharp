@@ -1,0 +1,12 @@
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\bin\Debug\DemoForm.exe.config
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\bin\Debug\DemoForm.exe
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\bin\Debug\DemoForm.pdb
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.CADRE.resources
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.Properties.Resources.resources
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.csproj.GenerateResource.Cache
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.exe
+C:\Users\2IIZ\Desktop\DemoForm\DemoForm\obj\Debug\DemoForm.pdb
+C:\Users\Iv\Desktop\C#\DemoForm\DemoForm\obj\Debug\DemoForm.exe
+C:\Users\Iv\Desktop\C#\DemoForm\DemoForm\obj\Debug\DemoForm.pdb

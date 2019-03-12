@@ -1,0 +1,21 @@
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\Desktop\c sharp\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\2IIZ\Dropbox\ABTS\C#\1Fun\3.Square OutIn filler\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

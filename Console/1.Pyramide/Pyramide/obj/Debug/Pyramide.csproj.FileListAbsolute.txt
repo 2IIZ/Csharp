@@ -1,0 +1,7 @@
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\obj\Debug\Pyramide.csproj.CoreCompileInputs.cache
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\bin\Debug\Pyramide.exe.config
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\bin\Debug\Pyramide.exe
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\bin\Debug\Pyramide.pdb
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\obj\Debug\Pyramide.exe
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\obj\Debug\Pyramide.pdb
+C:\Users\2IIZ\Desktop\c sharp\Pyramide\Pyramide\obj\Debug\Pyramide.csprojResolveAssemblyReference.cache
